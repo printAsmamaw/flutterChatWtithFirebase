@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927981217000",
+    "project_id": "chaw-23151",
+    "storage_bucket": "chaw-23151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927981217000:android:5b7b61fc6430a178d7155d",
+        "android_client_info": {
+          "package_name": "com.example.chaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927981217000-7tccopacjehqt0l1h695o0quc3fgngn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MByEA_45k-Q4gcFUpRvG13xLl83hx5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927981217000-7tccopacjehqt0l1h695o0quc3fgngn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
